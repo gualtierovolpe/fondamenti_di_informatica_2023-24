@@ -10,8 +10,8 @@ Le soluzioni delle esercitazioni vengono rilasciate, di norma, il giorno prima d
 
 ## Riferimenti e Contatti
 
-Le slide utilizzate a supporto dell'esercitazione sono disponibili nella pagina AulaWeb del corso a [questo indirizzo](https://2023.aulaweb.unige.it/course/view.php?id=4289).
+Le slide utilizzate a supporto dell'esercitazione sono disponibili nella pagina AulaWeb del corso a [questo indirizzo](https://2023.aulaweb.unige.it/course/view.php?id=8608).
 
-Informazioni più dettagliate relatve al corso sono disponibili sulla [pagina dedicata](https://corsi.unige.it/off.f/2023/ins/59139).
+Informazioni più dettagliate relatve al corso sono disponibili sulla [pagina dedicata](https://corsi.unige.it/off.f/2023/ins/66452?codcla=8719).
 
 Per assistenza sul materiale potete scrivere ai docenti utilizzando l'indirizzo email presente sulla pagina del corso.
