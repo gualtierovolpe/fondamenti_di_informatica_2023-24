@@ -4,7 +4,7 @@
 
 In questa pagina trovate tutto il materiale di supporto per le esercitazioni del corso di Fondamenti di Informatica per il corso di Laurea in Ingegneria Informatica dell'Università degli Studi di Genova.
 
-Ogni cartella contiene il materiale di una specifica esercitazione, incluso un ulteriore file README con la spiegazione delle soluzioni degli esercizi proposti e una serie di sotto-cartelle contenenti il codice sorgente di ogni esercizio.
+Ogni cartella contiene il testo di una specifica esercitazione e una serie di sotto-cartelle contenenti il codice sorgente di ogni esercizio.
 
 Le soluzioni delle esercitazioni vengono rilasciate, di norma, il giorno prima dell'esercitazione successiva.
 
